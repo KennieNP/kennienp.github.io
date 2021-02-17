@@ -5,7 +5,7 @@ title: Hello World!
 
  In English below  
 
-  
+![_config.yml]({{ site.baseurl }}/images/kennie-tong-nai-pan.webp)  
 
 Så fik jeg endelig gjort noget ved min beslutning om min egen blog. En beslutning, der blev taget en aften på Thong Nai Pan, Koh Phangang sammen med Maiken, Rikke og Martin med en mohito i hånden, stjerner på himlen (og sikkert Bob Marley i højttalerne)… 
 
