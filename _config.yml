@@ -85,6 +85,6 @@ exclude:
   - README.md
   - CNAME
 
-theme: minimal
+theme: jekyll-theme-modernist
 
 excerpt_separator: <!--more-->
