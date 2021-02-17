@@ -11,8 +11,6 @@ description: Data, SQL, Computer Science, Math, Statistics, and Science. Dad, Hu
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars.githubusercontent.com/u/7229259?s=400&u=fd7e6ab95b7b3ac5b0f8ee4179d9e6b12f3dcb46&v=4
 
-remote_theme: jekyll/minima
-
 #
 # Flags below are optional
 #
@@ -20,7 +18,7 @@ remote_theme: jekyll/minima
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: kennie.np@gmail.com
   facebook:
   flickr:
   github: kennienp
@@ -87,6 +85,6 @@ exclude:
   - README.md
   - CNAME
 
-#theme: jekyll-theme-modernist
+theme: jekyll-theme-modernist
 
 excerpt_separator: <!--more-->
