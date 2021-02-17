@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Schooled as a pure mathematician, I try to live by applying theory to practice in almost every aspect of life. In the recent years, my professional curiosity has been centered around the "Why?" before the "How?"
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+This blog is devoted mainly to the whys. There will be hows too, though.
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[kennie.np@gmail.com](mailto:kennie.np@gmail.com)
