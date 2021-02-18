@@ -14,8 +14,26 @@ I recently stumbled over a little gem at Youtube: _The numberphile channel_. Won
 
 ## 1 + 2 + 3 + 4 + 5 + ... = -1/12
 
-
 How the sum of all positive integers can be interpreted as an infinite part and a finite part. And that finite part is -1/12. Ever since I studied physics at University of Copenhagen, I have wondered how this result came about. Apparently the result is used in string theory to calculate the right number of dimensions, which is 26. There are three videos on this topic, of which the third is the best in my opinion:
+
+Tip: **CTRL+click** to open in a new browser tab/window.
+<p align="center">
+<a href="https://www.youtube.com/watch?v=w-I6XTVZXww"><img src="https://img.youtube.com/vi/w-I6XTVZXww/0.jpg" width="300"></a>
+<br>
+<a href="https://www.youtube.com/watch?v=w-I6XTVZXww">https://www.youtube.com/watch?v=w-I6XTVZXww</a>
+</p>
+
+<p align="center">
+<a href="https://www.youtube.com/watch?v=E-d9mgo8FGk"><img src="https://img.youtube.com/vi/E-d9mgo8FGk/0.jpg" width="300"></a>
+<br>
+<a href="https://www.youtube.com/watch?v=E-d9mgo8FGk">https://www.youtube.com/watch?v=E-d9mgo8FGk</a>
+</p>
+
+<p align="center">
+<a href="https://www.youtube.com/watch?v=0Oazb7IWzbA"><img src="https://img.youtube.com/vi/0Oazb7IWzbA/0.jpg" width="300"></a>
+<br>
+<a href="https://www.youtube.com/watch?v=0Oazb7IWzbA">https://www.youtube.com/watch?v=0Oazb7IWzbA</a>
+</p>
 
 - [https://www.youtube.com/watch?v=w-I6XTVZXww](https://www.youtube.com/watch?v=w-I6XTVZXww)
 - [https://www.youtube.com/watch?v=E-d9mgo8FGk](https://www.youtube.com/watch?v=E-d9mgo8FGk)
