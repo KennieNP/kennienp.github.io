@@ -4,13 +4,10 @@ title: My favourite video shows, part 1 - The numberphile channel
 tags: Mathematics
 ---
 
-
-
-
 Watch one Numberphile video for each tv-show episode you watch. Your brain will love you for it. <!--more-->
 
 ![_config.yml]({{ site.baseurl }}/images/pexels/music-shopping-business-market-5163786.jpeg)
- 
+
 I recently stumbled over a little gem at Youtube: _The numberphile channel_. Wonderful short (5-20 minute) videos on mathematical topics on a level suitable for advanced high school students and first-second year university students. In this blog post, I will do a shout out for some of the videos, that I really liked. Sooo, here we go…
 
  
@@ -34,8 +31,8 @@ Tip: **CTRL+click** to open in a new browser tab/window.
 <p align="center">
 <a href="https://www.youtube.com/watch?v=nUN4NDVIfVI&list=PLt5AfwLFPxWLD3KG-XZQFTDFhnZ3GHMlW"><img src="https://img.youtube.com/vi/nUN4NDVIfVI/0.jpg" width="300"></a>
 <br>
+<a href="https://www.youtube.com/watch?v=nUN4NDVIfVI&list=PLt5AfwLFPxWLD3KG-XZQFTDFhnZ3GHMlW">https://www.youtube.com/watch?v=nUN4NDVIfVI&list=PLt5AfwLFPxWLD3KG-XZQFTDFhnZ3GHMlW</a>
 </p>
-
 
 
 ## Non-standard analysis
