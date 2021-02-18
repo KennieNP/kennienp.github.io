@@ -6,8 +6,11 @@ tags: Profesionaldevelopment Mathematics
 
 Here is a (quick?) follow up on my post Bits, probability, and information - learning about information theory from last year. After learning about Information Theory, I decided to do a few more tutorials from the Complexity Explorer site. Read along to get inspired to explore on your own… <!--more-->
 
-
+# testing pics
 ![_config.yml]({{ site.baseurl }}/images/pexels/addition-black-and-white-black-and-white-chalk-374918.jpeg)   
+
+![_config.yml]({{ site.baseurl }}/images/kennie-tong-nai-pan.webp)  
+
 
 ## Random Walks 
 First, I signed up for a tutorial on Random Walks: [https://www.complexityexplorer.org/tutorials/46-random-walks](https://www.complexityexplorer.org/tutorials/46-random-walks)
