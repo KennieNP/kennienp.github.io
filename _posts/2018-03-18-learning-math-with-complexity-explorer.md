@@ -61,7 +61,6 @@ Stay tuned for more math fun...
 ## Want to learn more? 
 
 Read the original post on MOOC, Complexity Explorer and learning strategies here:
-
 http://www.pontop.dk/single-post/2017/10/31/Bits-probability-and-information---learning-about-information-theory
 
  
@@ -69,15 +68,11 @@ http://www.pontop.dk/single-post/2017/10/31/Bits-probability-and-information---l
 Read more about all the Complexity Explorer tutorials here: [https://www.complexityexplorer.org/tutorials](https://www.complexityexplorer.org/tutorials)
 
 
- 
-
 
 
 Did you like the beautiful pictures? I got them all from [pexels.com](pexels.com): 
-
-https://www.pexels.com/photo/addition-black-and-white-black-and-white-chalk-374918/  
-https://www.pexels.com/photo/bridge-child-children-fashion-191034/  
-https://www.pexels.com/photo/waterfall-deep-steep-4841/  
-https://www.pexels.com/photo/creepy-dark-fear-grave-534590/  
-https://www.pexels.com/photo/dawn-nature-tree-romania-56875/ 
-
+* [https://www.pexels.com/photo/addition-black-and-white-black-and-white-chalk-374918/](https://www.pexels.com/photo/addition-black-and-white-black-and-white-chalk-374918/)
+* [https://www.pexels.com/photo/bridge-child-children-fashion-191034/](https://www.pexels.com/photo/bridge-child-children-fashion-191034/)
+* [https://www.pexels.com/photo/waterfall-deep-steep-4841/](https://www.pexels.com/photo/waterfall-deep-steep-4841/)
+* [https://www.pexels.com/photo/creepy-dark-fear-grave-534590/](https://www.pexels.com/photo/creepy-dark-fear-grave-534590/)
+* [https://www.pexels.com/photo/dawn-nature-tree-romania-56875/](https://www.pexels.com/photo/dawn-nature-tree-romania-56875/)
