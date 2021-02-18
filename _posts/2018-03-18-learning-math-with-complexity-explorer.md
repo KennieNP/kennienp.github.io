@@ -12,7 +12,7 @@ Here is a (quick?) follow up on my post Bits, probability, and information - lea
 
 ## Random Walks 
 
-![_config.yml]({{ site.baseurl }}/images/bridge-child-children-fashion-191034.jpeg)
+![_config.yml]({{ site.baseurl }}/images/pexels/bridge-child-children-fashion-191034.jpeg)
 
 First, I signed up for a tutorial on Random Walks: [https://www.complexityexplorer.org/tutorials/46-random-walks](https://www.complexityexplorer.org/tutorials/46-random-walks)
 
@@ -20,7 +20,7 @@ The topic covers the theoretical background for phenomena such as the motion of 
 
  
 ## Differential Equations
-![_config.yml]({{ site.baseurl }}/images/waterfall-deep-steep-4841.jpeg)
+![_config.yml]({{ site.baseurl }}/images/pexels/waterfall-deep-steep-4841.jpeg)
 
 Inspired by learning about the diffusion differential equation, I decided to do the two tutorials on Differential Equations.
 
@@ -32,7 +32,7 @@ In the first one, focus was on building a geometric intuition of solutions to di
 
 
 ## Renormalization 
-![_config.yml]({{ site.baseurl }}/images/skull-illustration-534590.jpeg)
+![_config.yml]({{ site.baseurl }}/images/pexels/skull-illustration-534590.jpeg)
 
 Now, I jumped into something wild: Renormalization. I blogged about renormalization in this post http://www.pontop.dk/single-post/2016/07/25/My-favourite-video-shows-part-1-The-numberphile-channel
 
@@ -42,7 +42,7 @@ Introduction to Renormalization: [https://www.complexityexplorer.org/tutorials/6
 
  
 ## Maximum Entropy Methods
-![_config.yml]({{ site.baseurl }}/images/green-leafed-tree-on-mountain-56875.jpeg)
+![_config.yml]({{ site.baseurl }}/images/pexels/green-leafed-tree-on-mountain-56875.jpeg)
 
 Finally, I did the tutorial on Maximum Entropy Methods: [https://www.complexityexplorer.org/tutorials/33-maximum-entropy-methods](https://www.complexityexplorer.org/tutorials/33-maximum-entropy-methods)
 
