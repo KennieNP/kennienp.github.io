@@ -11,6 +11,7 @@ Here is a (quick?) follow up on my post Bits, probability, and information - lea
 
 
 ## Random Walks 
+
 ![_config.yml]({{ site.baseurl }}/images/bridge-child-children-fashion-191034.jpeg)
 
 First, I signed up for a tutorial on Random Walks: [https://www.complexityexplorer.org/tutorials/46-random-walks](https://www.complexityexplorer.org/tutorials/46-random-walks)
