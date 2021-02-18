@@ -20,7 +20,7 @@ The topic covers the theoretical background for phenomena such as the motion of 
 
  
 ## Differential Equations
-![_config.yml]({{ site.baseurl }}/images/pexels/waterfall-deep-steep-4841.jpeg)
+![_config.yml]({{ site.baseurl }}/images/pexels/waterfall-deep-steep-4841.jpg)
 
 Inspired by learning about the diffusion differential equation, I decided to do the two tutorials on Differential Equations.
 
